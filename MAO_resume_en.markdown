@@ -16,7 +16,7 @@
 - Wechat：harrymao
 
 # Skills
-- Programming language：R programming, Octave, C, VBA, Java, Python
+- Programming language：Python, R programming, Octave, C, VBA, Java
 - Web develop：PHP/HTML5/CSS
 - DB：MySQL/Oracle
 - Version control system ：Svn/Git
